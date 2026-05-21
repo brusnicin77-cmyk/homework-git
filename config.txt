@@ -1,3 +1,3 @@
-"setting1=value1" 
-"setting2=value2" 
-"setting3=value3" 
+setting1=value1
+setting2=НовоеЗначениеОтF2
+setting3=value3 
